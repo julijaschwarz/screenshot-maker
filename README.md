@@ -1,4 +1,4 @@
-# java_screenshots
+# My successful java experiment
 This is a console program that allows you to take screenshots of your screen every 5-10 seconds
  and save them in a folder on DropBox.
 
@@ -20,3 +20,5 @@ Creating a Dropbox Folder:
 
 
 **Using this code, please, don't make illegal things** ; )
+
+**P.S.: Use on your own risk!**
