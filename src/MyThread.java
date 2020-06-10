@@ -9,7 +9,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 public class MyThread extends Thread {
-    private static final String ACCESS_TOKEN = "";
+    private static final String ACCESS_TOKEN = ""; //You must enter a token for Dropbox
     @Override
     public void run() {
         DbxRequestConfig config = DbxRequestConfig.newBuilder("dropbox/java-tutorial").build();
